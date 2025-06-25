@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sergio Hervás 
 
-**Ingeniero Informático | Desarrollo Software**  
+**Ingeniero Informático | Desarrollo Software Full Stack**  
 🎓 Graduado en Ingeniería Informática - Universidad de Granada
 🎓 Máster Universitario en Ingeniería Informática - Universidad de Granada  
 
